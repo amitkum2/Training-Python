@@ -62,7 +62,8 @@ print(b)
 #how to remove duplicates from a list:
 
 
-
+if a:
+    
 
 
 
